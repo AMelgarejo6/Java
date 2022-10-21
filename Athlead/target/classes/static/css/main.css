@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.loginimage{
+	width:900px;
+	height:740px;
+	object-fit:cover;
+}
+
+#rightdiv{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	margin: 0 auto;
+}

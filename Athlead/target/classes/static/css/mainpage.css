@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.storediv{
+	display:flex;
+	height:300px;
+	width: 600px;
+	margin: 0 auto;
+	flex-direction:column;
+	text-align:center;
+	margin-top: 65px;
+}
+
+.bottomstorediv{
+	display:flex;
+	flex-direction:row;
+	height:150px;
+	width:600px;
+	justify-content:center;
+}
+
+.topstorediv{
+	display:flex;
+	height:150px;
+	width:100%;
+	align-items:center;
+	justify-content:center;
+}
+
+.storeimg{
+	height:80px;
+	width:260px;
+}
